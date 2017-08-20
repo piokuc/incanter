@@ -1,4 +1,4 @@
-(defproject incanter "1.5.8-SNAPSHOT"
+(defproject incanter "1.5.9-SNAPSHOT"
   :description "Incanter is a Clojure-based, R-like statistical programming and data visualization environment."
   :url "http://incanter.org/"
   :license {:name "Eclipse Public License"
@@ -6,7 +6,7 @@
   :scm {:name "git" :url "https://github.com/incanter/incanter"}
   :min-lein-version "2.0.0"
   :dependencies [[incanter/incanter-core "1.5.8-SNAPSHOT"]
-                 [incanter/incanter-io "1.5.8-SNAPSHOT"]
+                 [incanter/incanter-io "1.5.9-SNAPSHOT"]
                  [incanter/incanter-charts "1.5.8-SNAPSHOT"]
                  [incanter/incanter-mongodb "1.5.8-SNAPSHOT"]
                  [incanter/incanter-pdf "1.5.8-SNAPSHOT"]

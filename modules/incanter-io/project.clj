@@ -1,4 +1,4 @@
-(defproject incanter/incanter-io "1.5.8-SNAPSHOT"
+(defproject incanter/incanter-io "1.5.9-SNAPSHOT"
   :description "Incanter-io is the I/O module of the Incanter project."
   :url "http://incanter.org/"
   :license {:name "Eclipse Public License"
